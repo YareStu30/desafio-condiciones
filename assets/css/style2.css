@@ -1,6 +1,7 @@
-* {
+body {
   margin: 0%;
   padding: 0%;
+  background-color: blueviolet;
 }
 
 h1 {
@@ -11,17 +12,24 @@ h1 {
   justify-content: space-around;
   align-items: center;
   height: 70vh;
+  background-color: blueviolet;
 }
 .sticker {
   display: flex;
   flex-direction: column;
   justify-content: center;
   padding: 2%;
-  width: 30%;
 }
 
 .button {
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 2.5rem;
+  padding: 8px;
+  margin-top: 2%;
+  width: 100%;
+}
+img {
+  width: 400px;
 }
