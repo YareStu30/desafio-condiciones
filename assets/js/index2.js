@@ -15,5 +15,3 @@ verificacion.addEventListener("click", (e) => {
   console.log("#input1");
   console.log(total);
 });
-
-/*desafio number 3*/
