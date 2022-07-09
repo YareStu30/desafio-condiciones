@@ -1,0 +1,27 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+h1 {
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 70vh;
+}
+.sticker {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2%;
+  width: 30%;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
